@@ -4,4 +4,5 @@
 
 # screenshot
 
-![IMG_0214](https://github.com/jkwon-dev/AirQ_ReactNative/assets/81068818/ea86ca3e-6884-4aea-b38f-e56177da7fe9)
+<img src="https://github.com/jkwon-dev/AirQ_ReactNative/assets/81068818/ea86ca3e-6884-4aea-b38f-e56177da7fe9"  width="300" height="600"></img>
+
