@@ -4,5 +4,4 @@
 
 # screenshot
 
-<img src="https://github.com/jkwon-dev/AirQ_ReactNative/assets/81068818/ea86ca3e-6884-4aea-b38f-e56177da7fe9"  width="300" height="600"></img>
-
+<img src="https://github.com/jkwon-dev/AirQ_ReactNative/assets/81068818/bb09ab92-d9a9-424f-8d91-742fd869966c" width="300" heigh = "600"/>
